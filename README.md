@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Adem Talbi!
 
 I'm a student passionate about coding and learning new technologies. I enjoy working on small projects to improve my skills and contribute to open-source.
 
